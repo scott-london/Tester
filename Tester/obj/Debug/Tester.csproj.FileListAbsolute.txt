@@ -1,0 +1,14 @@
+c:\users\scott\documents\visual studio 2015\Projects\Tester\Tester\bin\Debug\Tester.exe.config
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Tester\Tester\bin\Debug\Tester.exe
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Tester\Tester\bin\Debug\Tester.pdb
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Tester\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Tester\Tester\obj\Debug\Tester.Form1.resources
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Tester\Tester\obj\Debug\Tester.Properties.Resources.resources
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Tester\Tester\obj\Debug\Tester.csproj.GenerateResource.Cache
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Tester\Tester\obj\Debug\Tester.exe
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Tester\Tester\obj\Debug\Tester.pdb
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Tester\Tester\bin\Debug\Octokit.dll
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Tester\Tester\bin\Debug\Octokit.pdb
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Tester\Tester\bin\Debug\Octokit.xml
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Tester\Tester\bin\Debug\System.Json.dll
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Tester\Tester\bin\Debug\System.Json.xml
